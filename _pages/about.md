@@ -25,11 +25,12 @@ This is my personal page.
 - East China University of Technology, Mathematics & Applied Mathematics, BSc.
 
 # 📝 Publications 
+# # First or Corresponding-authored Journal Papers
 - Dejian Yu, **Bo Xiang**\*. An ESTs detection research based on paper entity mapping: Combining scientific text modeling and neural prophet. *Journal of Informetrics*, 2024, 18(4): 101551.
 - Dejian Yu, **Bo Xiang**\*. Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling. *Expert Systems with Applications*, 2023, 225: 120114.
 - Dejian Yu, **Bo Xiang**\*. Discovering knowledge map and evolutionary path of HRM and ER: using the STM combined with Word2vec. *International Journal of Manpower*, 2023, 44(5): 967-988
-- Dejian Yu, **Bo Xiang**\*, and Zhuoya Pan. Combining text analytics and network path extraction to trace CSR in the social sciences: Intellectual structures and diffusion trajectories. *Corporate Social Responsibility and Environmental Management*, 2024, 31(5): 4532–4554.
-- Xiaorong He, **Bo Xiang**\*, and Yu, Dejian. Exploring the evolution and collaboration in two-sided matching: A comprehensive bibliometric and topic modeling analysis. *International Journal of Intelligent Computing and Cybernetics*. Accepted.
+- Dejian Yu, **Bo Xiang**\*, Zhuoya Pan. Combining text analytics and network path extraction to trace CSR in the social sciences: Intellectual structures and diffusion trajectories. *Corporate Social Responsibility and Environmental Management*, 2024, 31(5): 4532–4554.
+- Xiaorong He, **Bo Xiang**\*, Yu, Dejian. Exploring the evolution and collaboration in two-sided matching: A comprehensive bibliometric and topic modeling analysis. *International Journal of Intelligent Computing and Cybernetics*. Accepted.
 - Dejian Yu, **Bo Xiang**\*. Customized integrated decision model for CBEC enterprise credit evaluation: The fusion of multi-source features and machine learning. *Electronic Markets*. Minor Revision.
 - Bo Xiang, **Dejian Yu**\*, Zhuoya Pan, Wenjin Zuo. Detecting technology opportunities appropriate for enterprise R&D: The synthesis analysis of industrial technical windows and enterprise competition relations. *Technovation*. Under Review.
 - Bo Xiang, Zhuoya Pan, Zhaoping Yan, **Jin Shi**\*. Research on synergistic mechanism and extraction strategy of scientific and technological knowledge driven by data-intelligence.
