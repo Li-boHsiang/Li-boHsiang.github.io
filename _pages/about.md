@@ -26,13 +26,13 @@ This is my personal page.
 
 # 📝 Publications 
 ## 📝 First or Corresponding-authored Journal Papers
-- Dejian Yu, **Bo Xiang**\*. An ESTs detection research based on paper entity mapping: Combining scientific text modeling and neural prophet. *Journal of Informetrics*, 2024, 18(4): 101551.
-- Dejian Yu, **Bo Xiang**\*. Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling. *Expert Systems with Applications*, 2023, 225: 120114.
-- Dejian Yu, **Bo Xiang**\*. Discovering knowledge map and evolutionary path of HRM and ER: using the STM combined with Word2vec. *International Journal of Manpower*, 2023, 44(5): 967-988
-- Dejian Yu, **Bo Xiang**\*, Zhuoya Pan. Combining text analytics and network path extraction to trace CSR in the social sciences: Intellectual structures and diffusion trajectories. *Corporate Social Responsibility and Environmental Management*, 2024, 31(5): 4532–4554.
-- Xiaorong He, **Bo Xiang**\*, Yu, Dejian. Exploring the evolution and collaboration in two-sided matching: A comprehensive bibliometric and topic modeling analysis. *International Journal of Intelligent Computing and Cybernetics*. Accepted.
-- Dejian Yu, **Bo Xiang**\*. Customized integrated decision model for CBEC enterprise credit evaluation: The fusion of multi-source features and machine learning. *Electronic Markets*. Minor Revision.
-- Bo Xiang, **Dejian Yu**\*, Zhuoya Pan, Wenjin Zuo. Detecting technology opportunities appropriate for enterprise R&D: The synthesis analysis of industrial technical windows and enterprise competition relations. *Technovation*. Under Review.
+- Dejian Yu, **Bo Xiang**\*. An ESTs detection research based on paper entity mapping: Combining scientific text modeling and neural prophet. *Journal of Informetrics* (SCI/SSCI, Q1, FMS B), 2024, 18(4): 101551.
+- Dejian Yu, **Bo Xiang**\*. Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling. *Expert Systems with Applications* (SCI, Q1, FMS C), 2023, 225: 120114.
+- Dejian Yu, **Bo Xiang**\*. Discovering knowledge map and evolutionary path of HRM and ER: using the STM combined with Word2vec. *International Journal of Manpower* (SSCI, Q1, ABS 2, FMS C), 2023, 44(5): 967-988
+- Dejian Yu, **Bo Xiang**\*, Zhuoya Pan. Combining text analytics and network path extraction to trace CSR in the social sciences: Intellectual structures and diffusion trajectories. *Corporate Social Responsibility and Environmental Management* (SSCI, Q1, FMS C), 2024, 31(5): 4532–4554.
+- Xiaorong He, **Bo Xiang**\*, Yu, Dejian. Exploring the evolution and collaboration in two-sided matching: A comprehensive bibliometric and topic modeling analysis. *International Journal of Intelligent Computing and Cybernetics* (EI/ESCI). Accepted.
+- Dejian Yu, **Bo Xiang**\*. Customized integrated decision model for CBEC enterprise credit evaluation: The fusion of multi-source features and machine learning. *Electronic Markets* (SSCI, Q1, ABS 2, FMS C). Minor Revision.
+- Bo Xiang, **Dejian Yu**\*, Zhuoya Pan, Wenjin Zuo. Detecting technology opportunities appropriate for enterprise R&D: The synthesis analysis of industrial technical windows and enterprise competition relations. *Technovation* (SSCI, Q1, ABS 3, FMS B). Under Review.
 - Bo Xiang, Zhuoya Pan, Zhaoping Yan, **Jin Shi**\*. Research on synergistic mechanism and extraction strategy of scientific and technological knowledge driven by data-intelligence. Being Submitted. `|` 项波, 潘卓娅, 颜兆萍, **石进**\*. 数智驱动下科技知识的协同机制与提炼路径研究. 待投递.
 - Bo Xiang, Zhuoya Pan, **Dejian Yu**\*. Research on situation awareness and cracking path of S&T security under the knowledge-based view. Being Modified. `|` 项波, 潘卓娅, **余德建**\*. 知识基础观下科技安全的态势感知与破解路径研究. 修改中.
 - Bo Xiang, Zhuoya Pan, **Jin Shi**\*. Research on the technological competition pattern and breakthrough path of enterprises driven by innovation - A case study of the new energy vehicle industry. Being Modified. `|` 项波, 潘卓娅, **石进**\*. 创新驱动下企业的技术竞争模式与突破路径研究-以新能源汽车产业为例. 修改中.
