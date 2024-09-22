@@ -33,7 +33,7 @@ This is my personal page.
 - Xiaorong He, **Bo Xiang**\*, Yu, Dejian. Exploring the evolution and collaboration in two-sided matching: A comprehensive bibliometric and topic modeling analysis. *International Journal of Intelligent Computing and Cybernetics*. Accepted.
 - Dejian Yu, **Bo Xiang**\*. Customized integrated decision model for CBEC enterprise credit evaluation: The fusion of multi-source features and machine learning. *Electronic Markets*. Minor Revision.
 - Bo Xiang, **Dejian Yu**\*, Zhuoya Pan, Wenjin Zuo. Detecting technology opportunities appropriate for enterprise R&D: The synthesis analysis of industrial technical windows and enterprise competition relations. *Technovation*. Under Review.
-- Bo Xiang, Zhuoya Pan, Zhaoping Yan, **Jin Shi**\*. Research on synergistic mechanism and extraction strategy of scientific and technological knowledge driven by data-intelligence. | 项波, 潘卓娅, 颜兆萍, **石进**\*. 数智驱动下科技知识的协同机制与提炼路径研究.
+- Bo Xiang, Zhuoya Pan, Zhaoping Yan, **Jin Shi**\*. Research on synergistic mechanism and extraction strategy of scientific and technological knowledge driven by data-intelligence.|项波, 潘卓娅, 颜兆萍, **石进**\*. 数智驱动下科技知识的协同机制与提炼路径研究.
 
 # 🏆 Competition
 - Tackling the opioid crisis: A disease transmission model incorporating socioeconomic factors, COMAP’s Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM), Meritorious Winner.
