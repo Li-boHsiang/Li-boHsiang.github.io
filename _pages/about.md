@@ -25,7 +25,7 @@ This is my personal page.
 - East China University of Technology, Mathematics & Applied Mathematics, BSc.
 
 # 📝 Publications 
-# # First or Corresponding-authored Journal Papers
+## 📝 First or Corresponding-authored Journal Papers
 - Dejian Yu, **Bo Xiang**\*. An ESTs detection research based on paper entity mapping: Combining scientific text modeling and neural prophet. *Journal of Informetrics*, 2024, 18(4): 101551.
 - Dejian Yu, **Bo Xiang**\*. Discovering topics and trends in the field of Artificial Intelligence: Using LDA topic modeling. *Expert Systems with Applications*, 2023, 225: 120114.
 - Dejian Yu, **Bo Xiang**\*. Discovering knowledge map and evolutionary path of HRM and ER: using the STM combined with Word2vec. *International Journal of Manpower*, 2023, 44(5): 967-988
