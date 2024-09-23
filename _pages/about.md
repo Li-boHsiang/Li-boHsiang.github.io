@@ -37,7 +37,7 @@ This is my personal page.
 - Bo Xiang, Zhuoya Pan, **Dejian Yu**\*. Research on situation awareness and cracking path of S&T security under the knowledge-based view. Being Modified. `|` 项波, 潘卓娅, **余德建**\*. 知识基础观下科技安全的态势感知与破解路径研究. 修改中.
 - Bo Xiang, Zhuoya Pan, **Jin Shi**\*. Research on the technological competition pattern and breakthrough path of enterprises driven by innovation - A case study of the new energy vehicle industry. Being Modified. `|` 项波, 潘卓娅, **石进**\*. 创新驱动下企业的技术竞争模式与突破路径研究-以新能源汽车产业为例. 修改中.
 
-# 🏆 Competition
+# 🏆 Competitions
 - Tackling the opioid crisis: A disease transmission model incorporating socioeconomic factors, COMAP’s Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM), Meritorious Winner.
 - Multi-parameter comprehensive evaluation model of traveling safety based on PCA-AHP, ‘Teddy’s Cup National Data Mining Challenge, National Second Prize.
 - High-pressure oil pipe pressure control based on one-dimensional compressible N-S model and finite volume method, National Student Mathematical Modeling Contest, National Second Prize.
