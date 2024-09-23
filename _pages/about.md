@@ -40,7 +40,7 @@ This is my personal page.
 # 🏆 Competitions
 - Tackling the opioid crisis: A disease transmission model incorporating socioeconomic factors, COMAP’s Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM), Meritorious Winner.
 - Multi-parameter comprehensive evaluation model of traveling safety based on PCA-AHP, ‘Teddy’s Cup National Data Mining Challenge, National Second Prize.
-- High-pressure oil pipe pressure control based on one-dimensional compressible N-S model and finite volume method, National Student Mathematical Modeling Contest, National Second Prize.
+- High-pressure oil pipe pressure control based on one-dimensional compressible N-S model and finite volume method, National Student Mathematical Modeling Contest, Provincial Second Prize.
 - Physics Innovation Competition in Jiangxi Province (Undergraduate), Provincial Third Prize.
 - “Challenge Cup” Academic and Technological Competition in China, Provincial Second Prize.
 - The Chinese Mathematics Competitions, Provincial Third Prize.
