@@ -33,7 +33,7 @@ This is my personal page.
 - Xiaorong He, **Bo Xiang**\*, Zeshui Xu, Dejian Yu. Exploring the evolution and collaboration in two-sided matching: A comprehensive bibliometric and topic modeling analysis. *International Journal of Intelligent Computing and Cybernetics* (EI/ESCI). https://doi.org/10.1108/IJICC-08-2024-0374
 - Dejian Yu, **Bo Xiang**\*. Customized integrated decision model for CBEC enterprise credit evaluation: The fusion of multi-source features and machine learning. *Electronic Markets* (SSCI, Q1, ABS 2, FMS C). Minor Revision.
 - **Bo Xiang**, Dejian Yu\*, Zhuoya Pan, Wenjin Zuo. Detecting technology opportunities appropriate for enterprise R&D: The synthesis analysis of industrial technical windows and enterprise competition relations. *Technovation* (SSCI, Q1, ABS 3, FMS B). Under Review.
-- **Bo Xiang**, Zhuoya Pan, Zhaoping Yan, Jin Shi\*. Research on synergistic mechanism and extraction strategy of scientific and technological knowledge driven by data-intelligence. *Journal of Information Resource Management* (CSSCI). Under Review. `|` **项波**, 潘卓娅, 颜兆萍, 石进\*. 数智驱动下科技知识的协同机制与提炼路径研究. *信息资源管理学报* (CSSCI). 在审.
+- **Bo Xiang**, Zhuoya Pan, Zhaoping Yan, Jin Shi\*. Research on synergistic mechanism and extraction strategy of scientific and technological knowledge driven by data-intelligence. *Journal of Information Resource Management* (CSSCI). Revision. `|` **项波**, 潘卓娅, 颜兆萍, 石进\*. 数智驱动下科技知识的协同机制与提炼路径研究. *信息资源管理学报* (CSSCI). 退修.
 
 
 
