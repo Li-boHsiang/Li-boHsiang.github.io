@@ -40,6 +40,7 @@ This is my personal page.
 12. **Bo Xiang**, Zhaoping Yan, Hailing Zhou, Jin Shi\*. LLM-driven virtual patient generation: Innovative model and healthcare service value research. Working Paper. `|` **项波**, 颜兆萍, 周海玲, 石进\*. LLM驱动的虚拟患者生成：创新模式与医疗服务价值研究.
 ## 📝 Other-authored Journal Papers
 1. Zhaoping Yan, **Bo Xiang**, Dejian Yu\*, Jin Shi\*. Identify the knowledge trajectory of internet of vehicles: From the perspective of main path analysis and topic analysis. *IEEE Internet of Things Journal* (SCI, Q1). https://doi.org/10.1109/JIOT.2024.3508740
+2. Hongyu Cai, **Bo Xiang**, Jin Shi\*. Dataset Intelligence: Connotations, Processes, and Application Scenarios. *Journal of the China Society for Scientific and Technical Information*. Submitted. `|` 蔡鸿宇, **项波**, 石进\*. 数据集情报：内涵、流程及场景应用. *情报学报* (CSSCI, AMI核心, FMS T1). 投递.
 
 # 🏆 Competitions
 - Tackling the opioid crisis: A disease transmission model incorporating socioeconomic factors, COMAP’s Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM), Meritorious Winner.
